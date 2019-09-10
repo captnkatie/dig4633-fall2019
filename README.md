@@ -8,18 +8,9 @@ As you complete each lab, you should provide a description of your features and 
 
 
 # VR Experiences: 
-SuperHot VR
-Beat Saber
-Gorn
-Vader Episode One
-Virtual Virtual Reality
-Job Simulator
-The Lab
-Richie's Plank Experience
-Creed: Rise to Glory
+SuperHot VR, Beat Saber, Gorn, Vader Episode One, Virtual Virtual Reality, Job Simulator, The Lab, Richie's Plank Experience, Creed: Rise to Glory
 
 # AR Experiences:
-Pokemon: Go
-Luna on the MagicLeap
+Pokemon: Go, Luna on the MagicLeap
 
 # MR Experiences:
