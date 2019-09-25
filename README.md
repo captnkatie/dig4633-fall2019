@@ -3,8 +3,10 @@ Template for course repository
 
 As you complete each lab, you should provide a description of your features and changes here.
 
+
 ## VR Lab 1: Apple Orchard Work
-The player will collect three apples from the Orchard and place them on the barrel in the center of the orchard.
+The player will collect two apples from the tree and place them on the barrel.
+also - rumpelstiltskin
 
 
 ## VR Experiences: 

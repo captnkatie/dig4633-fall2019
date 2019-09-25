@@ -8,11 +8,16 @@ public class GameController : MonoBehaviour
     public bool isappleplaced1;
     public bool isappleplaced2;
 
+    public GameObject winText;
+    public GameObject directions;
+
     public void checkForVictory() {
 
         if(isappleplaced1 && isappleplaced2)
         {
             Debug.Log("You got em all captn");
+            winText.SetActive(true);
+            directions.SetActive(false);
         }
     }
 
